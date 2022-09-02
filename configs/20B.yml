@@ -9,7 +9,7 @@
   "load": "./20B_checkpoints",
 
   # If finetuning, edit the following to the location of your finetuning dataset:
-  "data-path": "./data/pile_20B_tokenizer/pile_20B_tokenizer_text_document",
+  "data-path": "./data/train/",
 
   # parallelism settings ( you will want to change these based on your cluster setup, ideally scheduling pipeline stages
   # across the node boundaries )
@@ -42,19 +42,19 @@
       "lr": 0.97e-4,
       "betas": [0.9, 0.95],
       "eps": 1.0e-8,
-      }
-      },
+    }
+  },
 
   "min_lr": 0.97e-5,
   "zero_optimization": {
-  "stage": 1,
-  "allgather_partitions": True,
-  "allgather_bucket_size": 1260000000,
-  "overlap_comm": True,
-  "reduce_scatter": True,
-  "reduce_bucket_size": 1260000000,
-  "contiguous_gradients": True,
-  "cpu_offload": False
+    "stage": 1,
+    "allgather_partitions": True,
+    "allgather_bucket_size": 1260000000,
+    "overlap_comm": True,
+    "reduce_scatter": True,
+    "reduce_bucket_size": 1260000000,
+    "contiguous_gradients": True,
+    "cpu_offload": False
   },
 
   # batch / data settings (assuming 96 GPUs)
@@ -84,7 +84,7 @@
     "initial_scale_power": 12,
     "hysteresis": 2,
     "min_loss_scale": 1
-    },
+  },
 
   # misc. training settings
   "train-iters": 150000,
