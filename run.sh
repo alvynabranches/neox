@@ -1,247 +1,247 @@
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00000-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00000-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00001-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00001-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00002-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00002-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00003-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00003-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00004-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00004-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00005-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00005-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00006-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00006-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00007-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00007-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00008-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00008-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00009-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00009-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00010-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00010-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00011-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00011-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00012-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00012-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00013-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00013-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00014-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00014-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00015-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00015-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00016-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00016-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00017-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00017-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00018-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00018-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00019-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00019-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00020-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00020-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00021-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00021-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00022-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00022-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00023-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00023-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00024-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00024-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00025-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00025-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00026-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00026-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00027-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00027-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00028-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00028-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00029-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00029-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00030-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00030-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00031-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00031-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00032-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00032-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00033-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00033-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00034-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00034-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00035-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00035-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00036-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00036-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00037-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00037-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00038-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00038-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00039-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00039-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00040-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00040-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00041-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00041-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00042-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00042-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00043-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00043-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00044-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00044-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00045-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00045-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00046-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00046-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00047-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00047-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00048-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00048-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00049-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00049-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00050-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00050-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00051-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00051-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00052-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00052-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00053-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00053-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00054-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00054-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00055-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00055-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00056-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00056-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00057-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00057-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00058-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00058-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00059-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00059-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00060-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00060-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00061-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00061-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00062-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00062-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00063-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00063-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00064-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00064-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00065-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00065-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00066-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00066-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00067-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00067-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00068-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00068-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00069-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00069-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00070-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00070-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00071-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00071-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00072-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00072-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00073-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00073-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00074-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00074-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00075-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00075-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00076-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00076-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00077-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00077-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00078-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00078-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00079-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00079-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00080-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00080-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00081-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00081-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00082-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00082-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00083-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00083-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00084-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00084-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00085-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00085-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00086-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00086-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00087-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00087-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00088-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00088-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00089-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00089-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00090-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00090-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00091-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00091-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00092-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00092-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00093-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00093-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00094-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00094-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00095-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00095-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00096-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00096-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00097-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00097-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00098-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00098-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00099-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00099-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00100-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00100-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00101-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00101-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00102-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00102-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00103-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00103-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00104-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00104-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00105-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00105-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00106-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00106-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00107-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00107-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00108-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00108-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00109-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00109-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00110-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00110-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00111-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00111-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00112-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00112-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00113-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00113-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00114-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00114-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00115-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00115-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00116-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00116-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00117-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00117-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00118-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00118-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00119-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00119-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00120-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00120-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00121-of-01000.json" data/train/.
-gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00121-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00000-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00000-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00001-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00001-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00002-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00002-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00003-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00003-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00004-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00004-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00005-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00005-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00006-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00006-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00007-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00007-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00008-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00008-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00009-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00009-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00010-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00010-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00011-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00011-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00012-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00012-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00013-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00013-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00014-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00014-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00015-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00015-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00016-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00016-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00017-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00017-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00018-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00018-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00019-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00019-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00020-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00020-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00021-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00021-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00022-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00022-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00023-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00023-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00024-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00024-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00025-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00025-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00026-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00026-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00027-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00027-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00028-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00028-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00029-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00029-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00030-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00030-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00031-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00031-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00032-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00032-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00033-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00033-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00034-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00034-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00035-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00035-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00036-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00036-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00037-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00037-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00038-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00038-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00039-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00039-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00040-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00040-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00041-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00041-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00042-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00042-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00043-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00043-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00044-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00044-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00045-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00045-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00046-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00046-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00047-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00047-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00048-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00048-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00049-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00049-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00050-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00050-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00051-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00051-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00052-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00052-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00053-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00053-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00054-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00054-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00055-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00055-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00056-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00056-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00057-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00057-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00058-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00058-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00059-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00059-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00060-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00060-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00061-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00061-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00062-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00062-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00063-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00063-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00064-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00064-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00065-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00065-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00066-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00066-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00067-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00067-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00068-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00068-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00069-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00069-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00070-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00070-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00071-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00071-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00072-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00072-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00073-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00073-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00074-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00074-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00075-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00075-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00076-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00076-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00077-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00077-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00078-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00078-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00079-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00079-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00080-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00080-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00081-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00081-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00082-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00082-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00083-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00083-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00084-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00084-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00085-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00085-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00086-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00086-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00087-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00087-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00088-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00088-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00089-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00089-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00090-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00090-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00091-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00091-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00092-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00092-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00093-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00093-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00094-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00094-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00095-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00095-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00096-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00096-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00097-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00097-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00098-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00098-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00099-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00099-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00100-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00100-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00101-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00101-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00102-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00102-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00103-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00103-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00104-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00104-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00105-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00105-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00106-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00106-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00107-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00107-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00108-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00108-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00109-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00109-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00110-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00110-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00111-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00111-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00112-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00112-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00113-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00113-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00114-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00114-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00115-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00115-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00116-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00116-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00117-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00117-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00118-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00118-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00119-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00119-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00120-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00120-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00121-of-01000.json" data/train/.
+# gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00121-of-01000.json" data/train/.
 gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00122-of-01000.json" data/train/.
 gsutil -m cp "gs://dataset_reddit/reddit/20220806/test-00122-of-01000.json" data/train/.
 gsutil -m cp "gs://dataset_reddit/reddit/20220806/train-00123-of-01000.json" data/train/.
